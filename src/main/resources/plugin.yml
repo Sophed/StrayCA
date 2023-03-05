@@ -1,0 +1,35 @@
+name: StrayCA
+version: '${project.version}'
+main: ca.ca.CA
+api-version: 1.18
+prefix: [ STRAY ]
+load: STARTUP
+authors: [ Sophed ]
+description: Core utility features for Stray.gg
+website: stray.gg
+commands:
+  coolarena:
+    description: Travel to or requests to send the specified player to the private arena hub.
+    aliases: [ca, privarena, privatearena]
+  cabeast:
+    description: Travel to or requests to send the specified player to the private arena with beast kit.
+    aliases: [coolarenabeast, privarenabeast, privatearenabeast]
+  caspeed:
+    description: Travel to or requests to send the specified player to the private arena with speed kit.
+    aliases: [coolarenaspeed, privarenaspeed, privatearenaspeed]
+  caaxe:
+    description: Travel to or requests to send the specified player to the private arena with axe kit.
+    aliases: [coolarenaaxe, privarenaaxe, privatearenaaxe]
+  canone:
+    description: Travel to or requests to send the specified player to the private arena with no kit.
+    aliases: canokit
+  mediaarena:
+    description: Travel to or requests to send the specified player to Media Arena.
+  forceca:
+    description: Forcefully sends the specified player to the private arena.
+  forcecabeast:
+    description: Forcefully sends the specified player to the private arena.
+  forcecaspeed:
+    description: Forcefully sends the specified player to the private arena.
+  forcecaaxe:
+    description: Forcefully sends the specified player to the private arena.
