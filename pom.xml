@@ -41,7 +41,7 @@
                         </goals>
                         <configuration>
                             <createDependencyReducedPom>false</createDependencyReducedPom>
-                            <outputFile>/home/soph/Plugins/StrayCA.jar</outputFile>
+                            <outputFile>/home/soph/Plugins/StrayCAPot.jar</outputFile>
                         </configuration>
                     </execution>
                 </executions>
