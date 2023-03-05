@@ -11,7 +11,7 @@ Custom Spigot plugin for Stray.gg to handle the private arena for top ranks, med
 
 `/caspeed` Teleports the user to CoolArena with Speed Kit. Aliases: `coolarenaspeed`, `privarenaspeed`, `privatearenaspeed`.
 
-`/canonone` Teleports the user to CoolArena without a kit. Aliases: `canokit`.
+`/canone` Teleports the user to CoolArena without a kit. Aliases: `canokit`.
 
 `/mediaarena` Same as CoolArena but for seperate for media ranks.
 
