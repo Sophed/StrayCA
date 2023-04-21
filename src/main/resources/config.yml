@@ -16,9 +16,16 @@ CAHub_Location:
   - 77.0
   - 4957.5
 
-# CoolArena location coordinates in World and 'X Y Z Yaw Pitch' format.
-CoolArena_World: "world"
-CoolArena_Location:
+# CoolArena Diamond location coordinates in World and 'X Y Z Yaw Pitch' format.
+CoolArenaD_World: "world"
+CoolArenaD_Location:
+  - -467.5
+  - 142.0
+  - 496.5
+
+# CoolArena Netherite location coordinates in World and 'X Y Z Yaw Pitch' format.
+CoolArenaN_World: "world"
+CoolArenaN_Location:
   - -467.5
   - 142.0
   - 496.5

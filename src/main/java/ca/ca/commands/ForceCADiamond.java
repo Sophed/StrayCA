@@ -15,8 +15,8 @@ import static org.bukkit.Bukkit.getServer;
 
 public class ForceCADiamond implements CommandExecutor {
     private Plugin plugin = CA.getPlugin(CA.class);
-    String caWorld = (String) plugin.getConfig().get("CoolArena_World");
-    List<Double> caLoc = (List<Double>) plugin.getConfig().getList("CoolArena_Location");
+    String caWorld = (String) plugin.getConfig().get("CoolArenaD_World");
+    List<Double> caLoc = (List<Double>) plugin.getConfig().getList("CoolArenaD_Location");
     String prefix = (String) plugin.getConfig().get("Prefix");
     String noPermissionMsg = (String) plugin.getConfig().get("NoPermission");
     String sendingMsg = (String) plugin.getConfig().get("Sending");
